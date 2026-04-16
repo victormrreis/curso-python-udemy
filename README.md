@@ -27,6 +27,12 @@ Cada arquivo corresponde a uma aula do curso, com os exemplos e conceitos pratic
 | 15 | Função input() | [aula15_funcao_input.py](./aula15_funcao_input.py) |
 | 16 | if / elif / else | [aula16_if_elif_else.py](./aula16_if_elif_else.py) |
 | 18 | Condicionais avançado | [aula18_condicionais_avancado.py](./aula18_condicionais_avancado.py) |
+| 19 | Operadores de comparação | [aula19_operadores_comparacao.py](./aula19_operadores_comparacao.py) |
+| 20 | Comparação na prática | [aula20_comparacao_pratica.py](./aula20_comparacao_pratica.py) |
+| 21 | Operadores lógicos | [aula21_operadores_logicos.py](./aula21_operadores_logicos.py) |
+| 22 | Validação de dados | [aula22_validacao_dados.py](./aula22_validacao_dados.py) |
+| 25 | Interpolação de strings | [aula25_interpolacao_strings.py](./aula25_interpolacao_strings.py) |
+| 26 | Formatação avançada | [aula26_formatacao_avancada.py](./aula26_formatacao_avancada.py) |
 
 > Repositório em constante atualização conforme avanço no curso.
 
