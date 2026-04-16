@@ -2,6 +2,8 @@
 
 Anotações e exercícios do meu curso de Python na Udemy, organizados por aula.
 
+Curso: **Python 3 do básico ao avançado — com projetos reais**
+
 Cada arquivo corresponde a uma aula do curso, com os exemplos e conceitos praticados.
 
 ## Módulo 1 — Fundamentos
@@ -18,6 +20,13 @@ Cada arquivo corresponde a uma aula do curso, com os exemplos e conceitos pratic
 | 08 | Variáveis na prática | [aula08_variaveis_pratica.py](./aula08_variaveis_pratica.py) |
 | 09 | Operadores aritméticos | [aula09_operadores_aritmeticos.py](./aula09_operadores_aritmeticos.py) |
 | 10 | Concatenação de strings | [aula10_concatenacao_strings.py](./aula10_concatenacao_strings.py) |
+| 11 | Precedência de operadores | [aula11_precedencia_operadores.py](./aula11_precedencia_operadores.py) |
+| 12 | Formatação de strings | [aula12_formatacao_strings.py](./aula12_formatacao_strings.py) |
+| 13 | F-strings | [aula13_fstrings.py](./aula13_fstrings.py) |
+| 14 | Método .format() | [aula14_metodo_format.py](./aula14_metodo_format.py) |
+| 15 | Função input() | [aula15_funcao_input.py](./aula15_funcao_input.py) |
+| 16 | if / elif / else | [aula16_if_elif_else.py](./aula16_if_elif_else.py) |
+| 18 | Condicionais avançado | [aula18_condicionais_avancado.py](./aula18_condicionais_avancado.py) |
 
 > Repositório em constante atualização conforme avanço no curso.
 
